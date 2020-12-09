@@ -1,0 +1,29 @@
+h1{
+    background-position: center;
+    border-bottom-style: dotted;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+h2{
+    background-image: url("elegant.html");
+}
+body{
+    background-color: violet;
+    
+}
+h1{
+    background-position: center;
+}
+a{
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+td
+{
+width:33%;
+text-align: center;    
+}
+p{
+    text-align: center;
